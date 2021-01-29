@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ApiGateway/ApiGateway.iml" filepath="$PROJECT_DIR$/../ApiGateway/ApiGateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PhotoAppApiConfigServer/PhotoAppApiConfigServer.iml" filepath="$PROJECT_DIR$/../PhotoAppApiConfigServer/PhotoAppApiConfigServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discoveryservicee.iml" filepath="$PROJECT_DIR$/discoveryservicee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../photoAppApiAccountManagement/photoAppApiAccountManagement.iml" filepath="$PROJECT_DIR$/../photoAppApiAccountManagement/photoAppApiAccountManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../photoAppUserApi/photoAppUserApi.iml" filepath="$PROJECT_DIR$/../photoAppUserApi/photoAppUserApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../photoAppZullApiGateway/photoAppZullApiGateway.iml" filepath="$PROJECT_DIR$/../photoAppZullApiGateway/photoAppZullApiGateway.iml" />
+    </modules>
+  </component>
+</project>
